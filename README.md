@@ -1,94 +1,74 @@
-```markdown
-</p>
+# 🚀 Team HypeTech 🇵🇦
+### *WRO Future Engineers 2026*
 
-<h1 align="center">Team HypeTech 🇵🇦 — WRO Future Engineers 2026</h1>
-<p align="center">
-  <i>Panama • WRO Future Engineers Category • Autonomous Robotics • LEGO mBlock Programming</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Custom%20Chassis-20C997?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-mBlock%20(LEGO%20Programming)-20C997?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Team-Colegio%20San%20Vicente%20de%20Paúl-ADB5BD?style=flat-square"/>
-</p>
+📍 **Santiago de Veraguas, Panama**  
+🏫 **Colegio San Vicente de Paúl**  
+🤖 **Future Engineers Category**
 
 ---
 
-## Introduction
+# 🌟 Introduction
 
-We are **HypeTech**, a robotics team from *Colegio San Vicente de Paúl* in Santiago de Veraguas, Panama 🇵🇦.
+Welcome to **Team HypeTech**, a passionate robotics team proudly representing **Colegio San Vicente de Paúl** in Santiago de Veraguas, Panama.
 
-Our team consists of three students: **Angel Herrera**, **Guillermo Espinosa**, and **Jesus Murillo**. What makes our team unique is that we are not only teammates—we are family. As cousins, we have grown up supporting each other, solving challenges together, and sharing a passion for technology and innovation.
+Our team consists of **Angel Herrera**, **Guillermo Espinosa**, and **Jesus Murillo**. More than teammates, we are family. As cousins, we have spent years sharing challenges, ideas, successes, and failures. This unique bond has allowed us to develop strong communication, trust, and teamwork—qualities that become invaluable when facing engineering challenges under pressure.
 
-For us, robotics is more than building a machine. It is an opportunity to learn, create, improve, and demonstrate that teamwork and dedication can transform ideas into reality. Every test, every adjustment, and every line of code has helped us grow as future engineers.
+For us, robotics is far more than a competition.
 
-Together, we developed **PROJECT H**, an autonomous robot designed to navigate the competition field, complete laps, detect obstacles, and make decisions completely on its own.
+It is an opportunity to learn, innovate, solve real-world problems, and demonstrate how dedication, creativity, and perseverance can transform ideas into reality.
 
----
+Every piece of our robot tells a story of countless hours spent designing, testing, troubleshooting, rebuilding, and improving. Through this journey, we continue developing the mindset of future engineers while strengthening the values that define us as a team.
 
-## Our Robot: **PROJECT H**
-
-<p align="center">
-  <img src="./v-photos/front.jpg"/>
-</p>
-
-**PROJECT H** is our autonomous self-driving robot created for the WRO Future Engineers challenge.
-
-The robot was designed to complete the competition track independently by detecting walls, identifying turns, avoiding collisions, and counting laps without external assistance.
-
-Its navigation system is based on a custom chassis equipped with proximity sensors, steering mechanisms, and an autonomous control algorithm programmed entirely in **mBlock**.
-
-PROJECT H continuously analyzes its environment and reacts in real time, allowing it to navigate efficiently and complete the challenge with precision and reliability.
+> **Our mission is simple: learn continuously, improve relentlessly, and always give our very best.**
 
 ---
 
-## Meet Team HypeTech!
+# 🤖 Our Robot — PROJECT H
 
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <img src="./t-photos/team-photo.jpg" width="80%" alt="Team HypeTech Group Photo"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Angel Herrera</b><br>
-      Software Developer 💻<br>
-      <sub>Develops navigation logic, programming, testing, and problem-solving strategies.</sub>
-    </td>
-    <td align="center">
-      <b>Jesus Murillo</b><br>
-      Software Developer 🧠<br>
-      <sub>Works on programming optimization, debugging, and engineering solutions.</sub>
-    </td>
-    <td align="center">
-      <b>Guillermo Espinosa</b><br>
-      Mechanical Builder ⚙️<br>
-      <sub>Designs, assembles, and improves the robot's structure and hardware.</sub>
-    </td>
-  </tr>
-</table>
+**PROJECT H** is our autonomous robot developed specifically for the **WRO Future Engineers Challenge**.
+
+Designed to operate completely independently, PROJECT H can:
+
+✅ Navigate the competition field autonomously  
+✅ Follow walls with precision  
+✅ Detect and avoid obstacles  
+✅ Execute accurate turns  
+✅ Complete multiple laps without external control  
+
+Built on a custom-designed chassis and powered by a LEGO-based robotics platform, PROJECT H is programmed entirely in **mBlock** and driven by a navigation system created and optimized by our team.
+
+Using multiple proximity sensors, steering mechanisms, and a custom decision-making algorithm, the robot continuously analyzes its environment and reacts in real time to changing conditions.
+
+What truly makes PROJECT H special is not only its hardware and software, but the teamwork, determination, and engineering mindset behind every component.
 
 ---
 
-## Repository Content
+# 👨‍💻 Meet Team HypeTech
 
-This repository documents the complete development process of PROJECT H.
+## 💻 Angel Herrera
+### Software Developer & Engineering Problem Solver
 
-| Folder | Description |
-|----------|-------------|
-| [`models/`](./models) | Contains 3D models and design files used in the robot's development. |
-| [`schemes/`](./schemes) | Includes wiring diagrams and component connection layouts. |
-| [`src/`](./src) | Contains the complete mBlock programming files used by PROJECT H. |
-| [`t-photos/`](./t-photos) | Team photographs and official documentation images. |
-| [`v-photos/`](./v-photos) | Robot photographs from multiple perspectives. |
-| [`video/`](./video) | Videos demonstrating the robot's performance during testing and competition runs. |
+Angel focuses on designing and improving the robot's programming architecture. He works extensively on sensor integration, navigation logic, performance optimization, and troubleshooting during testing sessions.
 
 ---
 
-## Engineering Materials
+## 🧠 Jesus Murillo
+### Software Developer & Engineering Problem Solver
 
-Below is a summary of the main components used in PROJECT H.
+Jesus contributes to software development, debugging, and optimization of the robot's autonomous decision-making system. Through systematic testing and analytical thinking, he helps transform concepts into reliable engineering solutions.
+
+---
+
+## ⚙️ Guillermo Espinosa
+### Mechanical Builder & Hardware Specialist
+
+Guillermo leads the mechanical design and construction of PROJECT H. He is responsible for assembling, refining, and optimizing the robot's structure while ensuring every component operates efficiently and reliably.
+
+---
+
+# 🛠️ Engineering Materials
+
+PROJECT H was developed using a modular robotics platform and the following components:
 
 - LEGO Robotics Controller Hub
 - 1 Large Motor for propulsion
@@ -100,135 +80,114 @@ Below is a summary of the main components used in PROJECT H.
 
 ---
 
-## Building Instructions
+# 🧭 Navigation Strategy
 
-### Robot Structure
+PROJECT H operates through a fully autonomous, rule-based navigation system programmed in **mBlock**.
 
-PROJECT H was designed and assembled entirely by our team. The chassis combines stability, maneuverability, and efficient sensor placement to maximize navigation performance.
-
-### Operating Diagram
-
-The [`schemes/`](./schemes) folder contains diagrams showing the robot's electrical connections, sensor locations, and hardware configuration.
-
-### Programming Code
-
-The [`src/`](./src) folder contains all programming files developed using mBlock. These programs control movement, navigation, obstacle detection, steering, and lap counting.
-
-> All software development, testing, assembly, and integration were completed by Team HypeTech.
-
-> **PROJECT H is constantly evolving.**
-> Through continuous testing and improvement, both hardware and software may be updated throughout the season.
+The robot constantly monitors its surroundings and makes real-time decisions based on data collected from its sensors.
 
 ---
 
-## PROJECT H Mobility System
+## 📡 Wall Detection
 
-### Key Functional Behaviors
+Three proximity sensors continuously measure distances to nearby surfaces.
 
-#### 1. Autonomous Forward Movement
+These measurements allow PROJECT H to:
 
-- The robot uses a large motor to move forward.
-- The proximity sensors continuously monitor the environment.
-- The system maintains smooth and stable movement during operation.
-
-#### 2. Wall Detection
-
-- Three proximity sensors constantly measure the distance between the robot and surrounding walls.
-- These readings help the robot understand its position on the track.
-
-#### 3. Turning Logic
-
-- When a sensor detects the absence of a wall where one is expected, PROJECT H recognizes a corner.
-- The steering motor executes the corresponding turn.
-- After completing the maneuver, the robot returns to its normal navigation path.
-
-#### 4. Obstacle Avoidance
-
-- The proximity sensors identify nearby objects and track boundaries.
-- The robot reacts automatically to avoid collisions while maintaining course progression.
-
-#### 5. Lap Completion and Stop Behavior
-
-- PROJECT H tracks its progress by counting turns throughout the course.
-- Once the robot completes twelve registered turns, it understands that the challenge is complete.
-- The motors stop and the robot remains safely in its final position.
+- Detect walls
+- Maintain optimal positioning
+- Determine upcoming turns
+- Stay aligned throughout the course
 
 ---
 
-### Why These Components?
+## ↩️ Turning Logic
 
-| Component | Purpose & Reason |
-|------------|-----------------|
-| **Large Motor** | Provides reliable forward movement and propulsion. |
-| **Steering Motor** | Controls directional changes and corner navigation. |
-| **Proximity Sensors (x3)** | Detect walls, obstacles, and navigation references. |
-| **Controller Hub** | Processes sensor data and executes programmed logic. |
-| **Battery System** | Supplies power to all electronic components. |
-| **Custom Chassis** | Provides structural stability and optimal component placement. |
+When the robot detects the absence of a wall where one is expected, it identifies a corner and initiates a turning sequence.
+
+The steering system then activates, allowing PROJECT H to perform precise turns and continue following the track.
 
 ---
 
-## Navigation Strategy
+## 🧠 Decision-Making System
 
-The navigation system developed for PROJECT H allows the robot to operate completely autonomously throughout the competition.
+PROJECT H does not rely on remote control or artificial intelligence.
 
-Using mBlock programming and real-time sensor readings, the robot continuously evaluates its environment and makes decisions based on predefined engineering logic.
+Instead, it uses a carefully designed set of programmed conditions and logical rules that enable it to:
 
----
-
-### Open Round Strategy
-
-In the Open Round, PROJECT H focuses on consistency, precision, and stability.
-
-1. **Initialization**
-   - All sensors and motors are activated.
-   - Navigation variables are reset.
-
-2. **Lap Execution**
-   - The robot follows the walls of the track.
-   - Sensor readings guide movement and turning decisions.
-   - The system tracks completed turns throughout the course.
-
-3. **Completion**
-   - After completing the required route, the robot automatically stops.
-   - All motors return to a safe resting position.
+- Analyze sensor data
+- Make consistent decisions
+- Adapt to changing conditions
+- Operate independently during competition
 
 ---
 
-### Obstacle Round Strategy
+## 🚧 Obstacle Avoidance
 
-During obstacle-based challenges, PROJECT H combines wall tracking and obstacle detection to navigate safely.
+The robot uses its three proximity sensors to identify obstacles and track boundaries.
 
-1. **Continuous Scanning**
-   - The three proximity sensors constantly monitor the surroundings.
+This enables PROJECT H to:
 
-2. **Decision Making**
-   - The robot analyzes sensor data using programmed logic blocks.
-   - Decisions are made autonomously without remote control.
-
-3. **Obstacle Detection**
-   - If an obstacle or unexpected object is detected, the robot adjusts its movement accordingly.
-
-4. **Corner Recognition**
-   - When a wall is no longer detected, the robot recognizes an upcoming turn.
-   - The steering motor performs the required maneuver.
-
-5. **Challenge Completion**
-   - After detecting twelve completed turns, the robot stops automatically.
-
-> PROJECT H operates fully autonomously using engineering logic, sensor feedback, and programmed decision-making.
+- Avoid collisions
+- Maintain smooth navigation
+- Preserve stability during operation
 
 ---
 
-## More Than a Robot
+## 🔄 Lap Counting
 
-PROJECT H is much more than motors, sensors, and programming blocks.
+PROJECT H tracks its progress by monitoring completed turns throughout the course.
 
-It represents teamwork, family, perseverance, and countless hours of dedication.
+After successfully registering twelve turns, the robot recognizes that the challenge has been completed and automatically stops.
 
-As cousins and teammates, we have learned that great engineering is built through collaboration, trust, creativity, and continuous improvement.
+---
 
-Every challenge we overcome makes us stronger—not only as competitors, but as future engineers.
+# 🏁 Open Round Strategy
 
-**Welcome to Team HypeTech.**
-```
+During the Open Round, PROJECT H focuses on:
+
+- Stability
+- Precision
+- Consistent movement
+
+The robot follows track boundaries, executes accurate turns, and completes three laps while maintaining reliable orientation and controlled speed.
+
+---
+
+# 🎯 Challenge Round Strategy
+
+In obstacle-based rounds, PROJECT H combines wall tracking and obstacle detection to navigate safely and efficiently.
+
+Its sensors continuously monitor the environment, allowing the robot to react dynamically while remaining focused on completing the course with maximum accuracy and consistency.
+
+---
+
+# ❤️ More Than a Robot
+
+PROJECT H represents much more than motors, sensors, and lines of code.
+
+It represents:
+
+🤝 Teamwork  
+👨‍👩‍👦 Family  
+💪 Perseverance  
+🚀 Innovation  
+🎯 Determination  
+
+As cousins, friends, and teammates, we have learned that great engineering is built not only through technology, but also through trust, communication, collaboration, and resilience.
+
+Every challenge has strengthened us.
+
+Every failure has taught us.
+
+Every improvement has brought us one step closer to becoming the engineers we aspire to be.
+
+---
+
+# 🌎 Welcome to Team HypeTech
+
+> **"Engineering is not about building robots. It's about building solutions, overcoming challenges, and never stopping the pursuit of improvement."**
+
+Thank you for visiting our project and joining us on our journey through robotics, innovation, and engineering excellence.
+
+### 🚀 Team HypeTech — WRO Future Engineers 2026 🇵🇦
