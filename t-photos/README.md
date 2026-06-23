@@ -8,3 +8,4 @@ Team HypeTech QR Elite is made up of Jesus, Guillermo, and Angel, representing C
 
 
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a589768c-a0b2-49f5-a937-b33fbe9c4066" />
