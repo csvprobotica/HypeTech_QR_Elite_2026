@@ -18,3 +18,4 @@ In this section is presented the  [`list of electronic components`]  a detailed 
 <div style="text-align: center;">
   <img width="700"/>
 </div>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8627e2b-5865-4aac-981d-5dba90a98ba6" />
