@@ -35,7 +35,7 @@ Designed to operate completely independently, PROJECT H can:
 ✅ Execute accurate turns  
 ✅ Complete multiple laps without external control  
 
-Built on a custom-designed chassis and powered by a LEGO-based robotics platform, PROJECT H is programmed entirely in **mBlock** and driven by a navigation system created and optimized by our team.
+Built on a custom-designed chassis and powered by a LEGO SPIKE Prime robotics platform, PROJECT H is programmed entirely in **Python using Pybricks** and driven by a navigation system created and optimized by our team.
 
 Using multiple proximity sensors, steering mechanisms, and a custom decision-making algorithm, the robot continuously analyzes its environment and reacts in real time to changing conditions.
 
@@ -70,19 +70,20 @@ Guillermo leads the mechanical design and construction of PROJECT H. He is respo
 
 PROJECT H was developed using a modular robotics platform and the following components:
 
-- LEGO Robotics Controller Hub
+- LEGO SPIKE Prime Hub
 - 1 Large Motor for propulsion
-- 1 Steering Motor for directional control
-- 3 Proximity Sensors
-- Rechargeable Battery System
-- Custom Chassis Structure
-- LEGO mBlock Programming Environment
+- 1 Medium Motor for steering (Ackermann steering geometry)
+- 2 Ultrasonic Sensors (left and right, for wall following)
+- 1 Color Sensor (for finish line detection)
+- Rechargeable Battery System (7.3V Li-Po, LEGO Technic Large Hub battery)
+- Custom Chassis Structure (Technic + custom base plate)
+- Pybricks (Python programming environment)
 
 ---
 
 # 🧭 Navigation Strategy
 
-PROJECT H operates through a fully autonomous, rule-based navigation system programmed in **mBlock**.
+PROJECT H operates through a fully autonomous, rule-based navigation system programmed in **Python using Pybricks**.
 
 The robot constantly monitors its surroundings and makes real-time decisions based on data collected from its sensors.
 
@@ -124,7 +125,7 @@ Instead, it uses a carefully designed set of programmed conditions and logical r
 
 ## 🚧 Obstacle Avoidance
 
-The robot uses its three proximity sensors to identify obstacles and track boundaries.
+The robot uses its two ultrasonic sensors to identify obstacles and track boundaries.
 
 This enables PROJECT H to:
 
