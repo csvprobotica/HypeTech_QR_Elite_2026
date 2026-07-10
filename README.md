@@ -1,8 +1,9 @@
 # 🚀 Team HypeTech 🇵🇦
+
 ### *WRO Future Engineers 2026*
 
-📍 **Santiago de Veraguas, Panama**  
-🏫 **Colegio San Vicente de Paúl**  
+📍 **Santiago de Veraguas, Panama**
+🏫 **Colegio San Vicente de Paúl**
 🤖 **Future Engineers Category**
 
 ---
@@ -29,13 +30,13 @@ Every piece of our robot tells a story of countless hours spent designing, testi
 
 Designed to operate completely independently, PROJECT H can:
 
-✅ Navigate the competition field autonomously  
-✅ Follow walls with precision  
-✅ Detect and avoid obstacles  
-✅ Execute accurate turns  
-✅ Complete multiple laps without external control  
+✅ Navigate the competition field autonomously
+✅ Follow walls with precision
+✅ Detect and avoid obstacles
+✅ Execute accurate turns
+✅ Complete multiple laps without external control
 
-Built on a custom-designed chassis and powered by a LEGO SPIKE Prime robotics platform, PROJECT H is programmed entirely in **Python using Pybricks** and driven by a navigation system created and optimized by our team.
+Built on a custom-designed chassis and powered by a LEGO-based robotics platform, PROJECT H is programmed entirely in **mBlock** and driven by a navigation system created and optimized by our team.
 
 Using multiple proximity sensors, steering mechanisms, and a custom decision-making algorithm, the robot continuously analyzes its environment and reacts in real time to changing conditions.
 
@@ -43,26 +44,91 @@ What truly makes PROJECT H special is not only its hardware and software, but th
 
 ---
 
+# 📸 Vehicle Photos — PROJECT H
+
+The robot's structure balances a compact footprint with easy access to its internal components, allowing quick adjustments and repairs between competition rounds. Every component — from the drivetrain to the sensor layout — was chosen and positioned with one goal in mind: completing every challenge of the competition with **speed, precision, and reliability**.
+
+Below you can see PROJECT H from every angle.
+
+## 🔍 Full View — All Angles
+
+| Front | Back |
+|:---:|:---:|
+| <img src="./v-photos/front.jpg" width="400"> | <img src="./v-photos/back.jpg" width="400"> |
+
+| Left Side | Right Side |
+|:---:|:---:|
+| <img src="./v-photos/left.jpg" width="400"> | <img src="./v-photos/right.jpg" width="400"> |
+
+| Top | Bottom |
+|:---:|:---:|
+| <img src="./v-photos/top.jpg" width="400"> | <img src="./v-photos/bottom.jpg" width="400"> |
+
+## 📷 What Each View Shows
+
+- **Front:** The front **proximity sensor** mounted at the nose of the robot for wall and obstacle detection, flanked by the front bumper panels. The steering assembly sits directly behind it.
+- **Back:** The rear of the chassis, where the **drive motor and transmission** deliver power to the rear wheels, along with the elevated mast that houses part of the robot's electronics and cable routing.
+- **Left / Right sides:** The full profile of the chassis — larger drive wheels at the rear, smaller steering wheels at the front, and the sensor mast raised above the body for a clear view of the track. The cable routing along the frame keeps every connection secure during runs.
+- **Top:** The overall component distribution seen from above — the frame layout, cable management, and the rear hub ports, all organized for accessibility and balanced weight.
+- **Bottom:** The underside of the chassis, showing the **robotics hub** seated at the core of the structure, the steering linkage at the front, and the rear axle transmission — a low center of gravity built for stability at competition speeds.
+
+<p align="center">
+  <i>Every angle of PROJECT H reflects a design decision — nothing is where it is by accident.</i> ⚙️
+</p>
+
+---
+
 # 👨‍💻 Meet Team HypeTech
 
 ## 💻 Angel Herrera
-### Software Developer & Engineering Problem Solver
 
-Angel focuses on designing and improving the robot's programming architecture. He works extensively on sensor integration, navigation logic, performance optimization, and troubleshooting during testing sessions.
+### Role in the team
+Responsible for the robot's programming architecture. Angel works extensively on **sensor integration, navigation logic, and performance optimization**, as well as troubleshooting during testing sessions.
+
+### 🏆 Achievements & Robotics Background
+- 🇵🇦 **National Qualifier – WRO Panamá** — Earned classification to the national stage of the World Robot Olympiad, competing among the country's top teams.
+- 🤖 **Multi-category Competitor** — Has competed in different robotics modalities at the national level, building versatile experience across challenges and rulesets.
+
+### 💡 Motivation and Focus
+If the robot works on the first try, something is wrong. Debug, retry, repeat — that's where the fun is.
 
 ---
 
 ## 🧠 Jesus Murillo
-### Software Developer & Engineering Problem Solver
 
-Jesus contributes to software development, debugging, and optimization of the robot's autonomous decision-making system. Through systematic testing and analytical thinking, he helps transform concepts into reliable engineering solutions.
+### Role in the team
+Responsible for the robot's **autonomous decision-making system**. Jesus contributes to software development, debugging, and optimization, using systematic testing and analytical thinking to transform concepts into reliable engineering solutions.
+
+### 🏆 Achievements & Robotics Background
+- 🇵🇦 **National Qualifier – WRO Panamá** — Earned classification to the national stage of the World Robot Olympiad, competing among the country's top teams.
+- 🤖 **Multi-category Competitor** — Has competed in different robotics modalities at the national level, adapting strategies to every type of challenge.
+
+### 💡 Motivation and Focus
+Think twice, code once. Every problem has a logical solution — you just have to find it before the round timer does.
 
 ---
 
 ## ⚙️ Guillermo Espinosa
-### Mechanical Builder & Hardware Specialist
 
-Guillermo leads the mechanical design and construction of PROJECT H. He is responsible for assembling, refining, and optimizing the robot's structure while ensuring every component operates efficiently and reliably.
+### Role in the team
+Responsible for the robot's **mechanical design and construction**. Guillermo leads the assembly, refinement, and optimization of PROJECT H's structure, ensuring every component operates efficiently and reliably.
+
+### 🏆 Achievements & Robotics Background
+- 🇵🇦 **National Qualifier – WRO Panamá** — Earned classification to the national stage of the World Robot Olympiad, competing among the country's top teams.
+- 🤖 **Multi-category Competitor** — Has competed in different robotics modalities at the national level, designing and building robots for a variety of challenges.
+
+### 💡 Motivation and Focus
+Build it strong, build it smart, build it again if you have to. A great robot starts with hands that never stop improving it.
+
+---
+
+<p align="center">
+  <img src="./t-photos/team-hypetech.png" alt="Team HypeTech" width="600">
+</p>
+
+<p align="center">
+  <b>HypeTech</b> — code. build. compete. 🤖
+</p>
 
 ---
 
@@ -70,20 +136,19 @@ Guillermo leads the mechanical design and construction of PROJECT H. He is respo
 
 PROJECT H was developed using a modular robotics platform and the following components:
 
-- LEGO SPIKE Prime Hub
+- LEGO Robotics Controller Hub
 - 1 Large Motor for propulsion
-- 1 Medium Motor for steering (Ackermann steering geometry)
-- 2 Ultrasonic Sensors (left and right, for wall following)
-- 1 Color Sensor (for finish line detection)
-- Rechargeable Battery System (7.3V Li-Po, LEGO Technic Large Hub battery)
-- Custom Chassis Structure (Technic + custom base plate)
-- Pybricks (Python programming environment)
+- 1 Steering Motor for directional control
+- 3 Proximity Sensors
+- Rechargeable Battery System
+- Custom Chassis Structure
+- LEGO mBlock Programming Environment
 
 ---
 
 # 🧭 Navigation Strategy
 
-PROJECT H operates through a fully autonomous, rule-based navigation system programmed in **Python using Pybricks**.
+PROJECT H operates through a fully autonomous, rule-based navigation system programmed in **mBlock**.
 
 The robot constantly monitors its surroundings and makes real-time decisions based on data collected from its sensors.
 
@@ -125,7 +190,7 @@ Instead, it uses a carefully designed set of programmed conditions and logical r
 
 ## 🚧 Obstacle Avoidance
 
-The robot uses its two ultrasonic sensors to identify obstacles and track boundaries.
+The robot uses its three proximity sensors to identify obstacles and track boundaries.
 
 This enables PROJECT H to:
 
@@ -169,11 +234,11 @@ PROJECT H represents much more than motors, sensors, and lines of code.
 
 It represents:
 
-🤝 Teamwork  
-👨‍👩‍👦 Family  
-💪 Perseverance  
-🚀 Innovation  
-🎯 Determination  
+🤝 Teamwork
+👨‍👩‍👦 Family
+💪 Perseverance
+🚀 Innovation
+🎯 Determination
 
 As cousins, friends, and teammates, we have learned that great engineering is built not only through technology, but also through trust, communication, collaboration, and resilience.
 
