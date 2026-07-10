@@ -12,6 +12,8 @@ The renders show every angle of the robot: top, bottom, left, right, front, and 
 
 ---
 
-<img width="594" height="961" alt="image" src="https://github.com/user-attachments/assets/995a1fbe-ede2-44b5-ad88-c87535f19239" />
-<img width="628" height="623" alt="image" src="https://github.com/user-attachments/assets/dec0e71c-ba8b-4265-9a03-6ca6f05babbd" />
-<img width="1077" height="1023" alt="image" src="https://github.com/user-attachments/assets/8565dd3b-c6f2-426f-82e3-b7774108fd7c" />
+<img width="1195" height="896" alt="image" src="https://github.com/user-attachments/assets/e97ca807-0b26-4129-a496-bcf5fa232427" />
+<img width="1195" height="896" alt="image" src="https://github.com/user-attachments/assets/67816c1b-d81f-4c0e-b393-7d1dc4d30b91" />
+<img width="896" height="1195" alt="image" src="https://github.com/user-attachments/assets/07b8341d-a009-40b1-94e9-6a5df06e5a2e" />
+<img width="895" height="1195" alt="image" src="https://github.com/user-attachments/assets/b88d001c-b0d7-4a42-9c95-1d3eb7424398" />
+<img width="896" height="1195" alt="image" src="https://github.com/user-attachments/assets/3011f9ad-05c4-41bb-8f60-9869e7bfc3ab" />
