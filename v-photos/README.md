@@ -1,34 +1,38 @@
-Vehicle's photos
-====
+# 📸 Vehicle Photos — PROJECT H
 
-This folder contains images of Project H, our robot, captured from various angles. Where it can be seen the various components that it has. 
+## Meet PROJECT H
 
-## Front
-<div style="text-align: center;">
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/71815ec5-fd6d-468a-afc9-678fb7cf1822" />
+**PROJECT H** is the result of months of design, testing, and continuous refinement by Team HypeTech. Built on the **LEGO Education SPIKE Prime** platform, every component — from the drivetrain to the sensor layout — was chosen and positioned with one goal in mind: completing every challenge of the competition with **speed, precision, and reliability**.
 
+The robot's structure balances a compact footprint with easy access to its internal components, allowing quick adjustments and repairs between competition rounds. Below you can see PROJECT H from every angle.
 
-## Back
-<div style="text-align: center;">
- <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5cfdcd20-5627-471f-9ebb-aafa32313b71" />
+---
 
-## Left
-<div style="text-align: center;">
-  <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8561c91d-23ed-485b-9091-5a09dfc6cc2a" />
+## 🔍 Full View
 
+| Front | Top |
+|:---:|:---:|
+| <img src="./v-photos/front.jpg" width="400"> | <img src="./v-photos/top.jpg" width="400"> |
 
-## Right
-<div style="text-align: center;">
- <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f5f27afd-26c7-4974-bb6b-74b1c9006b50" />
+| Left Side | Right Side |
+|:---:|:---:|
+| <img src="./v-photos/left.jpg" width="400"> | <img src="./v-photos/right.jpg" width="400"> |
 
+| Bottom |
+|:---:|
+| <img src="./v-photos/bottom.jpg" width="400"> |
 
-## Top
-<div style="text-align: center;">
- <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/fd9738d9-e146-4f96-959e-411ae3dd45a1" />
+---
 
+## 📷 What Each View Shows
 
-## Bottom
-<div style="text-align: center;">
- <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9c76aa3b-afba-4090-a784-dea0c26da028" />
+- **Front:** The **ultrasonic distance sensor** mounted at the nose of the robot for obstacle detection, flanked by the front bumper panels. The front axle and steering assembly sit directly behind it.
+- **Left / Right sides:** The full profile of the chassis — larger drive wheels at the rear, smaller steering wheels at the front, and the **camera module raised on a mast** above the body to give the vision system a clear, elevated view of the track. The cable routing along the frame keeps every connection secure during runs.
+- **Top:** The overall component distribution seen from above — the frame layout, cable management, and the rear hub ports, all organized for accessibility and balanced weight.
+- **Bottom:** The underside of the chassis, showing the **SPIKE Prime hub** seated at the core of the structure, the steering linkage at the front, and the rear axle transmission — a low center of gravity built for stability at competition speeds.
 
+---
 
+<p align="center">
+  <i>Every angle of PROJECT H reflects a design decision — nothing is where it is by accident.</i> ⚙️
+</p>
