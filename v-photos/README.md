@@ -14,15 +14,15 @@ As required by the competition documentation, here are the six official views of
 
 | Front | Back |
 |:---:|:---:|
-| <img src="./v-photos/front.jpg" width="400"> | <img src="./v-photos/back.jpg" width="400"> |
+| <img src="front.jpg" width="400"> | <img src="back.jpg" width="400"> |
 
 | Left Side | Right Side |
 |:---:|:---:|
-| <img src="./v-photos/left.jpg" width="400"> | <img src="./v-photos/right.jpg" width="400"> |
+| <img src="left.jpg" width="400"> | <img src="right.jpg" width="400"> |
 
 | Top | Bottom |
 |:---:|:---:|
-| <img src="./v-photos/top.jpg" width="400"> | <img src="./v-photos/bottom.jpg" width="400"> |
+| <img src="top.jpg" width="400"> | <img src="bottom.jpg" width="400"> |
 
 ---
 
