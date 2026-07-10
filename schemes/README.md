@@ -17,7 +17,7 @@
 - Previous version: an earlier stage identified a rear traction fault initially attributed to the code, but which turned out to be a mechanical/electrical issue in the traction system (see the "detected failures" section below).
 - Current version: after fixing the traction issue, the robot maintains consistent turning behavior as expected by the navigation algorithm.
 
-*(If you have chassis diagrams in the `models/` folder, link them here: `[View chassis diagram](models/chassis.png)`)*
+
 
 ---
 
@@ -49,8 +49,6 @@ Estimated runtime: not formally measured; LEGO reports over 500 charge cycles fo
 - Front reference distance: at the start of each run, the initial front distance is stored; it is later used to determine when to stop during the final sequence.
 - Recalibration frequency: steering is automatically recalibrated on every run of the program (by calling `centrar_direccion()`).
 
-**Wiring diagram:**
-*(Link your diagram here: `[View wiring diagram](schemes/wiring.png)`)*
 
 **Failure points considered:**
 - If the left or right ultrasonic sensor fails, the robot would lose the distance reference on that side, affecting corner counting and path correction. If the front sensor fails, both the emergency protection and the end-of-run detection are lost. There is no redundancy between sensors in the current version (the color sensor, although installed, no longer serves as a backup). This dependency is a known risk, also documented in the risk analysis table.
@@ -81,9 +79,6 @@ src/
 5. **Soft correction (wall nearby):** if the secondary sensor detects less than 16 cm, the robot softly corrects (20°) toward the corner side; if the primary sensor detects less than 8 cm, it softly corrects toward the opposite side.
 6. **Final sequence:** upon completing 12 corners (3 laps of 4 corners each), the robot stops, waits, moves forward a bit more, and stops for good once the **front** sensor again reads a distance smaller than the front distance stored at the start of the run (this replaces the color-line detection used in the previous version).
 
-*(Note: a `StopWatch` is still declared in the code but not yet used to measure time — it could be used in a future iteration to record lap time as a performance metric.)*
-
-*(If you have a flowchart, link it here)*
 
 **Front emergency maneuver (new in this version):**
 If the front sensor detects an obstacle closer than 10 cm: the robot stops, steers the wheels toward the side with more free space (comparing left vs. right distance), reverses for 400 ms in that direction, and then turns sharply (60°, stronger than the normal 45° turn) toward the opposite side before resuming forward motion — a "three-point" maneuver to get unstuck without relying on operator intervention.
